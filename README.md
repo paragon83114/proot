@@ -34,7 +34,7 @@ pkg install -y curl git
 ### 2. Ejecutar el script
 
 ```bash
-curl -L https://raw.githubusercontent.com/paragon83114/dotfiles/main/proot_debian_opencode.sh -o proot_debian_opencode.sh
+curl -L https://raw.githubusercontent.com/paragon83114/proot/main/proot_debian_opencode.sh -o proot_debian_opencode.sh
 chmod +x proot_debian_opencode.sh
 bash proot_debian_opencode.sh
 ```
